@@ -1,5 +1,5 @@
-# F1 standings list
+# F1 standings table
 
-Just a simple list inspired from the F1 website
+Just a simple table inspired from the F1 website
 
 HTML & CSS
